@@ -1,0 +1,92 @@
+    .card {
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .Honeymoon1 {
+        opacity: 0.9;
+    }
+    
+    .Business1 {
+        opacity: 0.9;
+    }
+    
+    .Party1 {
+        opacity: 0.9;
+    }
+    
+    body {
+        background-color: F8F0E5;
+    }
+    
+    .container {
+        background-color: #EADBC8;
+        border-radius: 10px;
+    }
+    
+    #header {
+        margin-top: 25px;
+    }
+    
+    .read {
+        margin-top: 10%;
+        margin-left: 100px;
+    }
+    
+    .px-4.py-5.my-5 {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    
+    .px-4.py-5.my-5 {
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+    
+    .my-5 {
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+    }
+    
+    {
+        background-color: #DAC0A3;
+    }
+    
+    .nav-link {
+        color: #725432;
+        /* change this to your desired color */
+    }
+    
+    .nav-link :hover {
+        color: #102C57;
+    }
+    
+     :root {
+        --primary-color: #102C57;
+        --primary-hover-color: #8cb7f7;
+        --outline-primary-color: #102C57;
+        --outline-primary-hover-color: #8cb7f7;
+    }
+    
+    .btn-primary {
+        background-color: var(--primary-color);
+        border-color: var(--primary-color);
+        color: #ffffff;
+    }
+    
+    .btn-primary:hover {
+        background-color: var(--primary-hover-color);
+        border-color: var(--primary-hover-color);
+        color: #ffffff;
+    }
+    
+    .btn-outline-primary {
+        border-color: var(--outline-primary-color);
+        color: var(--outline-primary-color);
+    }
+    
+    .btn-outline-primary:hover {
+        border-color: var(--outline-primary-hover-color);
+        color: var(--outline-primary-hover-color);
+        background-color: #ffffff;
+    }
